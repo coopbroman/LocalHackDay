@@ -1,0 +1,32 @@
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe.config
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.pdb
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csprojAssemblyReference.cache
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.SchdlFRM.resources
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.Properties.Resources.resources
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.GenerateResource.cache
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.exe
+C:\Users\Kyle.J\source\repos\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.pdb
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe.config
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.pdb
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csprojAssemblyReference.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.SchdlFRM.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.Properties.Resources.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.GenerateResource.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.CoreCompileInputs.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.exe
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.pdb
+\\minerfiles.mst.edu\dfs\users\amn8t3\Downloads\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.FRMinstruct.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe.config
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.exe
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\bin\Debug\LocalHack-FinalScheduler.pdb
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csprojAssemblyReference.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.SchdlFRM.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.FRMinstruct.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack_FinalScheduler.Properties.Resources.resources
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.GenerateResource.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.csproj.CoreCompileInputs.cache
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.exe
+\\minerfiles.mst.edu\dfs\users\amn8t3\Desktop\Local Hack Day (1)\ComboBoxSegment\LocalHack-FinalScheduler\LocalHack-FinalScheduler\obj\Debug\LocalHack-FinalScheduler.pdb
